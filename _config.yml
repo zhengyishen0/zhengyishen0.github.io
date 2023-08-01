@@ -20,7 +20,7 @@ timezone: America/New_York
 
 title: Zhengyi Shen # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Solopreneur # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -32,10 +32,7 @@ github:
   username: zhengyishen0 # change to your github username
 
 twitter:
-  username: ZhengyiShen # change to your twitter username
-
-linkedin:
-  username: ZhengyiShen # change to your twitter username
+  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
@@ -44,9 +41,11 @@ social:
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/zhengyishen0 # change to your twitter homepage
-    - https://github.com/ZhengyiShen # change to your github homepage
-    - https://www.linkedin.com/in/ZhengyiShen
+    - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/username # change to your github homepage
+    # Uncomment below to add more social links
+    # - https://www.facebook.com/username
+    # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
 
