@@ -83,7 +83,7 @@ _Everything seemed going all right until it broke._
 Streamlit is perfect for building data apps, but my app is just a traditional forum-like app. The limited component library and less optimized UI functions were no longer a neglectable issue. This was the time I thought about migrating the project to JavaScript. However, I certainly underestimated the [complexity of the world of JavaScript](). After I spent three days working with Svelte but only found myself debugging ESLint errors and package incompatibility, I realized JavaScript wasn’t the right tool for me in this challenge.
 
 This was just two weeks into the challenge and I had already stuck in my development with only a crapy app barely working ([Check the Streamlit app here](https://ignite-me.streamlit.app/)). What should I do next?
-z
+
 ![IgniteMe.app on Streamlit](/assets/img/posts/2023-08-01/streamlit.png)
 
 ## Development Phase II: Build with FlutterFlow (Day 22 - Day 30)
