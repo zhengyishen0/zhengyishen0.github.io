@@ -1,4 +1,5 @@
 #  The contact options.
+# icons powered by <https://fontawesome.com/>
 
 - type: github
   icon: "fab fa-github"
@@ -7,9 +8,7 @@
   icon: "fab fa-twitter"
 
 - type: linkedin
-  icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
-
-# Uncomment and complete the url below to enable more contact options
+  icon: "fab fa-linkedin"
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
