@@ -3,12 +3,19 @@
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/zhengyishen0"
 
 - type: twitter
   icon: "fab fa-twitter"
+  url: "https://twitter.com/ZhengyiShen"
 
 - type: linkedin
   icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/zhengyishen/"
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
 #
 # - type: mastodon
 #   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
@@ -22,6 +29,3 @@
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
 
-# - type: rss
-#   icon: "fas fa-rss"
-#   noblank: true
