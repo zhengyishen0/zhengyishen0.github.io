@@ -61,7 +61,7 @@ I’m no artist, and I don’t know much about web design, but at least I can le
 - Names and copywriting from ChatGPT
 - UI Designs (of web apps) from Airbnb, Github, WeChat, and more.
 - Data structure from to-do list apps
-- Tech stack choice from [**Fireship.io**](fireship.io) (my favorite YouTube channel on web development)
+- Tech stack choice from **Fireship.io** (my favorite YouTube channel on web development)
 
 So, here’s what I got:
 
