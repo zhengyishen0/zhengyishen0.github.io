@@ -61,7 +61,7 @@ I’m no artist, and I don’t know much about web design, but at least I can le
 - Names and copywriting from ChatGPT
 - UI Designs (of web apps) from Airbnb, Github, WeChat, and more.
 - Data structure from to-do list apps
-- Tech stack choice from **Fireship.io** (my favorite YouTube channel on web development)
+- Tech stack choice from [**Fireship.io**](https://fireship.io) (my favorite YouTube channel on web development)
 
 So, here’s what I got:
 
@@ -128,4 +128,4 @@ The journey to build and launch IgniteMe.app in 30 days was a challenging but re
 1. [Isolation is the dream-killer, not your attitude](https://youtu.be/H2rG4Dg6xyI), Barbara Sher
 2. "The Four Steps To Epiphany", Steve Blank
 3. “$100M Offer”, Alex Hormozi
-4. [Fireship.io](Fireship.io), Jeff Delaney
+4. [Fireship.io](https://Fireship.io), Jeff Delaney
