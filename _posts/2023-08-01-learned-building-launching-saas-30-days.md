@@ -10,6 +10,7 @@ tags:
   - web development
   - entrepreneurship
   - lean startup
+  - 30daychallenge
 pin: true
 slug: learned-building-launching-saas-30-days
 preview: /img/posts/posts/2023-08-01/twitter_1.png
@@ -119,9 +120,13 @@ _A balanced life is the cornerstone for long-term success_
 
 I got chest pain on day 15. A friend warned me it might be myocarditis, but I didn’t pay too much attention until the symptom got worse. After spending a few days trying to figure out the healthcare system, the insurance networks, and the options for medical services (I’m still new to this country). I ended up seeing a doctor at an urgent care center who found no problems with my heart and suggested that I might be suffering from anxiety. Though a false alarm, it was a good warning that I shouldn’t be too obsessed with coding and neglect my real life.
 
-## Final Thoughts
+## Beyond The Challenge
 
-The journey to build and launch IgniteMe.app in 30 days was a challenging but rewarding experience. From the initial idea to designing, developing, and testing the app, each day presented new obstacles and opportunities for growth. While the challenge has ended, the journey of building my own venture and doing what I care about continues. Stay tuned!
+The journey of this 30-day challenge building in public is so much fun and rewarding. I didn't believe I could do it when I started the challenge. I've been through the ups (when I quickly built the Streamlit app in the first week) and the downs (when I got stuck with JavaScript), and I would definitely gave up the development if I wasn't doing this challenge. But I didn't, and I made it till the end! The rewards are priceless for me. Not only did I gain the confidence to build a SaaS product from scratch, develop my own [methodology of web development](), but I also witnessed the transformation happened on me because of this 30-day challenge.
+
+While the SaaS challenge has ended, the story of my self-transformation and new venture creation has just begun. The blog you're reading right now is a part of my another 30-day challenge of blogging. I will continue to share my journey and the lessons I learned along the way.
+
+See you in the next post!
 
 ## Reference
 

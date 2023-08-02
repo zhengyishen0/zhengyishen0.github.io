@@ -60,5 +60,17 @@
     "saas",
     "web development"
   ],
-  "frontMatter.taxonomy.categories": ["30daychallenge"]
+  "frontMatter.taxonomy.categories": [
+    "30daychallenge"
+  ],
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "_posts",
+      "path": "[[workspace]]/_posts"
+    },
+    {
+      "title": "_tabs",
+      "path": "[[workspace]]/_tabs"
+    }
+  ]
 }
