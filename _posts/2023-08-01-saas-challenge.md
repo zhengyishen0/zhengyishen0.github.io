@@ -12,7 +12,8 @@ tags:
   - lean startup
   - 30daychallenge
 slug: saas-challenge
-image: /img/posts/posts/2023-08-01/twitter_1.png
+img_path: /assets/img/posts/2023-08-01/
+image: twitter_1.png
 ---
 
 ## A journey of building an online community for achievers

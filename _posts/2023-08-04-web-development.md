@@ -12,7 +12,7 @@ tags:
   - NoCode/LowCode
 slug: web-development
 img_path: /assets/img/posts/2023-08-04/
-image: /img/posts/2023-08-04/flutterflow.png
+image: flutterflow.png
 ---
 
 ## My web development principles and tech stack choice after building the same app three times using Python, JavaScript, and FlutterFlow
