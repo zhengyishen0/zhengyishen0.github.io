@@ -66,8 +66,8 @@ I’m no artist, and I don’t know much about web design, but at least I can le
 
 **What I got:**
 
-![Landing page on Framer](/assets/img/posts/2023-08-01/framer.png)
-![Prototype on Figma](/assets/img/posts/2023-08-01/figma.png)
+![Landing page on Framer](framer.png)
+![Prototype on Figma](figma.png)
 
 I was satisfied with the high productivity and excited about the progress on Day 4. But little did I know, it’s just the beginning.
 
@@ -85,7 +85,7 @@ Streamlit is perfect for building data apps, but my app is just a traditional fo
 
 This was just two weeks into the challenge and I had already stuck in my development with only a crapy app barely working ([Check the Streamlit app here](https://ignite-me.streamlit.app/)). What should I do next?
 
-![IgniteMe.app on Streamlit](/assets/img/posts/2023-08-01/streamlit.png)
+![IgniteMe.app on Streamlit](streamlit.png)
 
 ## Development Phase II: Build with FlutterFlow (Day 22 - Day 30)
 
@@ -97,10 +97,10 @@ But luckily, I learned about FlutterFlow, again, after I tried it 3 years ago. I
 
 I decided to go all-in with FlutterFlow when I was only a week from the deadline. I worked as crazy, learning and building. And surprisingly, I managed to finish the app with a much better user interface and more comprehensive functionality, in 7 days! (check out the app [here](https://empowermentcircle.flutterflow.app/))
 
-![twitter_1](/assets/img/posts/2023-08-01/twitter_1.png)
-![twitter_2](/assets/img/posts/2023-08-01/twitter_2.png)
-![twitter_3](/assets/img/posts/2023-08-01/twitter_3.png)
-![twitter_4](/assets/img/posts/2023-08-01/twitter_4.png)
+![twitter_1](twitter_1.png)
+![twitter_2](twitter_2.png)
+![twitter_3](twitter_3.png)
+![twitter_4](twitter_4.png)
 
 But before we wrap up the story and cheer for the success, let me share two interludes.
 
