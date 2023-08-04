@@ -108,7 +108,7 @@ The first part is the soul of any app and where we should pour the most creativi
 
 ### My FFF Kit Stack
 
-The FFF Kit is a portmanteau of FlutterFlow and Firebase, and its name is a tribute to [Jeff Delaney](https://twitter.com/Jeffdelaney23), the creator of [Fireship](fireship.io).
+The FFF Kit is a portmanteau of FlutterFlow and Firebase, and its name is a tribute to [Jeff Delaney](https://twitter.com/Jeffdelaney23), the creator of [Fireship](https://fireship.io).
 
 **Why do I choose FlutterFlow for Frontend**
 

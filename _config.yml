@@ -23,7 +23,7 @@ title: Zhengyi Shen # the main title
 tagline: Solopreneur # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Writing about web development, entrepreneurship, and self-development.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://www.zhengyishen.com"
@@ -32,7 +32,7 @@ github:
   username: zhengyishen0 # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: ZhengyiShen # change to your twitter username
 
 social:
   # Change to your full name.
