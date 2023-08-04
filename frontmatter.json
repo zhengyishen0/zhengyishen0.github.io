@@ -45,6 +45,11 @@
           "title": "preview",
           "name": "preview",
           "type": "string"
+        },
+        {
+          "title": "image_path",
+          "name": "image_path",
+          "type": "image"
         }
       ]
     }

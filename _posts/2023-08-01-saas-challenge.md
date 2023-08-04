@@ -12,11 +12,11 @@ tags:
   - lean startup
   - 30daychallenge
 pin: true
-slug: learned-building-launching-saas-30-days
+slug: saas-challenge
 preview: /img/posts/posts/2023-08-01/twitter_1.png
 ---
 
-# What I learned after building and launching a SaaS in 30 Days
+{% include links.md %}
 
 ## A journey of building an online community for achievers
 
@@ -35,6 +35,8 @@ And here I am, reflecting on my journey and sharing the lessons I learned along 
 _Everyone has a big idea, and so do I._
 
 This idea is motivated by Barbara Sher and her Success Team (check out her TED talk [here](https://youtu.be/H2rG4Dg6xyI)). The work Barbara Sher has done is incredibly heart-warming and inspiring. I want to replicate her magic and build an online community where we support each other with strong care.
+
+{% include embed/youtube.html id='H2rG4Dg6xyI' %}
 
 _Why it matters?_
 
@@ -62,7 +64,7 @@ I’m no artist, and I don’t know much about web design, but at least I can le
 - Names and copywriting from ChatGPT
 - UI Designs (of web apps) from Airbnb, Github, WeChat, and more.
 - Data structure from to-do list apps
-- Tech stack choice from [**Fireship.io**](https://fireship.io) (my favorite YouTube channel on web development)
+- Tech stack choice from [Fireship.io](https://fireship.io) (my favorite YouTube channel on web development)
 
 **What I got:**
 
@@ -81,7 +83,7 @@ I’ve to say, the overall learning and development experience with Streamlit wa
 
 _Everything seemed going all right until it broke._
 
-Streamlit is perfect for building data apps, but my app is just a traditional forum-like app. The limited component library and less optimized UI functions were no longer a neglectable issue. This was the time I thought about migrating the project to JavaScript. However, I certainly underestimated the [complexity of the world of JavaScript](). After I spent three days working with Svelte but only found myself debugging ESLint errors and package incompatibility, I realized JavaScript wasn’t the right tool for me in this challenge.
+Streamlit is perfect for building data apps, but my app is just a traditional forum-like app. The limited component library and less optimized UI functions were no longer a neglectable issue. This was the time I thought about migrating the project to JavaScript. However, I certainly underestimated the [complexity of the world of JavaScript][complexity of the world of JavaScript]. After I spent three days working with Svelte but only found myself debugging ESLint errors and package incompatibility, I realized JavaScript wasn’t the right tool for me in this challenge.
 
 This was just two weeks into the challenge and I had already stuck in my development with only a crapy app barely working ([Check the Streamlit app here](https://ignite-me.streamlit.app/)). What should I do next?
 
@@ -110,7 +112,7 @@ _The more I learn, the more I realize how much I don't know. ― Albert Einstein
 
 Product development is only half of the equation for SaaS success. The other half, and the more important one, is “Customer Development”, a term coined by Steve Blank in "The Four Steps To Epiphany", the book that launches the “Lean Startup” revolution.
 
-While Steve pointed out the essence to be minimum and lean, it will be reflective to also read the “$100M Offer” authored by Alex Hormozi, a book emphasizing the value of premium pricing and over-delivery. Though they seemed talking about two opposite opinions, I found their theories complement each other very well and I highly recommend both. (See my notes [here]())
+While Steve pointed out the essence to be minimum and lean, it will be reflective to also read the “$100M Offer” authored by [Alex Hormozi](https://twitter.com/AlexHormozi), a book emphasizing the value of premium pricing and over-delivery. Though they seemed talking about two opposite opinions, I found their theories complement each other very well and I highly recommend both. (See my notes [here]())
 
 After conducting interviews with friends, I realized the community platform may not align with their needs. Little time did I have at that moment, I could only stick with what I had. But I was aware of the mistakes I made and I shall be more thoughtful on my next app.
 
@@ -122,7 +124,7 @@ I got chest pain on day 15. A friend warned me it might be myocarditis, but I di
 
 ## Beyond The Challenge
 
-The journey of this 30-day challenge building in public is so much fun and rewarding. I didn't believe I could do it when I started the challenge. I've been through the ups (when I quickly built the Streamlit app in the first week) and the downs (when I got stuck with JavaScript), and I would definitely gave up the development if I wasn't doing this challenge. But I didn't, and I made it till the end! The rewards are priceless for me. Not only did I gain the confidence to build a SaaS product from scratch, develop my own [methodology of web development](), but I also witnessed the transformation happened on me because of this 30-day challenge.
+The journey of this 30-day challenge building in public is so much fun and rewarding. I didn't believe I could do it when I started the challenge. I've been through the ups (when I quickly built the Streamlit app in the first week) and the downs (when I got stuck with JavaScript), and I would definitely gave up the development if I wasn't doing this challenge. But I didn't, and I made it till the end! The rewards are priceless for me. Not only did I gain the confidence to build a SaaS product from scratch, develop my own [3 principles of web development][3 principles of web development], but I also witnessed the transformation happened on me because of this 30-day challenge.
 
 While the SaaS challenge has ended, the story of my self-transformation and new venture creation has just begun. The blog you're reading right now is a part of my another 30-day challenge of blogging. I will continue to share my journey and the lessons I learned along the way.
 
