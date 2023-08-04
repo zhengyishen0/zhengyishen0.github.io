@@ -10,7 +10,6 @@ tags:
   - web development
   - 30daychallenge
   - NoCode/LowCode
-pin: true
 slug: web-development
 img_path: /assets/img/posts/2023-08-04/
 preview: /img/posts/2023-08-04/flutterflow.png

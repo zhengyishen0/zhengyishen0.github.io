@@ -11,7 +11,6 @@ tags:
   - entrepreneurship
   - lean startup
   - 30daychallenge
-pin: true
 slug: saas-challenge
 preview: /img/posts/posts/2023-08-01/twitter_1.png
 ---
