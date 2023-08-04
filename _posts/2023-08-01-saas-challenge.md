@@ -12,10 +12,8 @@ tags:
   - lean startup
   - 30daychallenge
 slug: saas-challenge
-preview: /img/posts/posts/2023-08-01/twitter_1.png
+image: /img/posts/posts/2023-08-01/twitter_1.png
 ---
-
-{% include links.md %}
 
 ## A journey of building an online community for achievers
 
@@ -135,3 +133,7 @@ See you in the next post!
 2. "The Four Steps To Epiphany", Steve Blank
 3. “$100M Offer”, Alex Hormozi
 4. [Fireship.io](https://Fireship.io), Jeff Delaney
+
+> **Please leave a comment on [Twitter](https://twitter.com/intent/tweet?text=@ZhengyiShen&url={{ page.url | absolute_url }}) if you have any questions or suggestions. I'd love to hear from you!**
+
+{% include links.md %}

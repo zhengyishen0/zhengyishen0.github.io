@@ -12,10 +12,8 @@ tags:
   - NoCode/LowCode
 slug: web-development
 img_path: /assets/img/posts/2023-08-04/
-preview: /img/posts/2023-08-04/flutterflow.png
+image: /img/posts/2023-08-04/flutterflow.png
 ---
-
-{% include links.md %}
 
 ## My web development principles and tech stack choice after building the same app three times using Python, JavaScript, and FlutterFlow
 
@@ -148,3 +146,7 @@ The biggest critic of this tech stack is vendor lock-in. Yes, it is a real risk,
 ### What’s Next?
 
 I hope my sharing has been of some help to you, and hopefully, inspire you to start on your own creation, just like other creators have done for me. I will keep posting my journey and thoughts on web development, entrepreneurship, and self-development. See you in the next post!
+
+> **Please leave a comment on [Twitter](https://twitter.com/intent/tweet?text=@ZhengyiShen&url={{ page.url | absolute_url }}) if you have any questions or suggestions. I'd love to hear from you!**
+
+{% include links.md %}
