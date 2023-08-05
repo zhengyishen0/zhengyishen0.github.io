@@ -20,10 +20,10 @@ timezone: America/New_York
 
 title: Zhengyi Shen # the main title
 
-tagline: Writing about web development, entrepreneurship, and self-transformation. # it will display as the sub-title
+tagline: The Journey To Self-Realization. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Writing about web development, entrepreneurship, and self-transformation.
+  The Journey To Self-Realization.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://www.zhengyishen.com"
