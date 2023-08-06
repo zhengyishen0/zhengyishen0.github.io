@@ -13,7 +13,7 @@ I'm trying to figure out a path to which we can live to our own potential, estab
 Come talk with me on [Twitter @ZhengyiShen](https://twitter.com/ZhengyiShen)
 
 <form action="https://submit-form.com/{{ site.form.formspark_form_id }}">
-  <input type="hidden" name="_redirect" value="https://zhengyishen.com"/>
+  <input type="hidden" name="_redirect" value="https://zhengyishen.com/"/>
   <input type="hidden" name="_append" value="false" />
   <input type="email" id="email" name="email" placeholder="Your email" required=""/>
   <button type="submit">Submit</button>
