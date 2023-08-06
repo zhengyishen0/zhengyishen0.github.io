@@ -135,6 +135,8 @@ _See you in the next post!_
 
 ---
 
-> **Please leave a comment on [Twitter](https://twitter.com/intent/tweet?text=@ZhengyiShen&url={{ page.url | absolute_url }}). I'd love to hear from you!**
+<!-- prettier-ignore -->
+> **Please leave a comment on [Twitter @ZhengyiShen](https://twitter.com/intent/tweet?text=@ZhengyiShen&url={{ page.url | absolute_url }}). I'd love to hear from you!**
+{: .prompt-tip }
 
 {% include links.md %}
