@@ -92,12 +92,12 @@ The complexity of web development troubled me years ago when I was in charge of 
 
 Basically, any web application can be broken down into four parts, the business logic that differentiates the app from other apps, the user interface people interact with directly, the data structure that represents the relationship of information, and the servers the application runs on.
 
-Among the four, the first part is the soul of the app and where we should pour the most creativity. While the last three are more standard and are better to occupy less amount of effort. Thus I conclude the following three principles:
+Among the four, the first part is the soul of the app and where we should pour the most creativity. While the last three are more standard and are better to occupy less amount of effort. Thus I conclude with the following three principles:
 
 1. **Design as code**
    Visual appearance is the ultimate expression of the frontend. Why should we do it once on the design tool and do it again in the codes?
 2. **One schema rules all**
-   Design schema once and use it in databases, APIs, or custom functions. Why do we need to update the database, the backend API, the frontend API call, and the frontend component, for every single change in schema?
+   Design the schema once and use it in databases, APIs, or custom functions. Why do we need to update the database, the backend API, the frontend API call, and the frontend component, for every single change in schema?
 3. **No more wheels**
    Use existing infrastructure as much as possible. Why should we manage our own hosting, database backup, microservices, and crash reports when every website needs to do it in very similar ways?
 
