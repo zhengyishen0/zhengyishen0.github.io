@@ -150,7 +150,9 @@ _See you in the next post!_
 ---
 
 <!-- prettier-ignore -->
-> **Please leave a comment on [Twitter @ZhengyiShen](https://twitter.com/intent/tweet?text=@ZhengyiShen&url={{ page.url | absolute_url }}). I'd love to hear from you!**
+> **I’d love to hear your thoughts! Let me know on Twitter [@ZhengyiShen](https://twitter.com/intent/tweet?text=@ZhengyiShen&url={{ page.url | absolute_url }})**
 {: .prompt-tip }
 
 {% include links.md %}
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What would you do if you want to create an App but don&#39;t want to spend hours learning a programming language?<br><br>Here&#39;s what I learned after building the same app three times using <a href="https://twitter.com/streamlit?ref_src=twsrc%5Etfw">@streamlit</a> <a href="https://twitter.com/sveltejs?ref_src=twsrc%5Etfw">@sveltejs</a> <a href="https://twitter.com/flutterflow?ref_src=twsrc%5Etfw">@flutterflow</a> and <a href="https://twitter.com/Firebase?ref_src=twsrc%5Etfw">@Firebase</a> <a href="https://twitter.com/hashtag/buildinpublic?src=hash&amp;ref_src=twsrc%5Etfw">#buildinpublic</a><a href="https://t.co/lfN5bUzZvu">https://t.co/lfN5bUzZvu</a></p>&mdash; Zhengyi Shen (@ZhengyiShen) <a href="https://twitter.com/ZhengyiShen/status/1689637725769437184?ref_src=twsrc%5Etfw">August 10, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

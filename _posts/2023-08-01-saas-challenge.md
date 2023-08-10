@@ -136,7 +136,9 @@ _See you in the next post!_
 ---
 
 <!-- prettier-ignore -->
-> **Please leave a comment on [Twitter @ZhengyiShen](https://twitter.com/intent/tweet?text=@ZhengyiShen&url={{ page.url | absolute_url }}). I'd love to hear from you!**
+> **I’d love to hear your thoughts! Let me know on Twitter [@ZhengyiShen](https://twitter.com/intent/tweet?text=@ZhengyiShen&url={{ page.url | absolute_url }})**
 {: .prompt-tip }
 
 {% include links.md %}
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The recap of my 30-day journey building &amp; launching a SaaS<br><br>Huge thanks to <a href="https://twitter.com/Fer_MOMENTO?ref_src=twsrc%5Etfw">@Fer_MOMENTO</a> and Justin Hartung who motivated me with their achievements.<a href="https://twitter.com/hashtag/buildinpublic?src=hash&amp;ref_src=twsrc%5Etfw">#buildinpublic</a> <a href="https://twitter.com/hashtag/indiehackers?src=hash&amp;ref_src=twsrc%5Etfw">#indiehackers</a> <a href="https://twitter.com/hashtag/30daychallenge?src=hash&amp;ref_src=twsrc%5Etfw">#30daychallenge</a><br> <a href="https://t.co/IiUGGwOKcj">https://t.co/IiUGGwOKcj</a></p>&mdash; Zhengyi Shen (@ZhengyiShen) <a href="https://twitter.com/ZhengyiShen/status/1689353458028015617?ref_src=twsrc%5Etfw">August 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
