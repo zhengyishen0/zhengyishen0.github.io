@@ -4,12 +4,8 @@ date: 2023-08-01T17:49:49.790Z
 categories:
   - 30daychallenge
 tags:
-  - saas
   - web development
-  - entrepreneurship
-  - lean startup
   - 30daychallenge
-slug: saas-challenge
 img_path: /assets/img/
 image: twitter_1.png
 ---

@@ -4,8 +4,7 @@ date: 2023-08-13T19:31:00.640Z
 categories:
   - Book Excerpts
 tags:
-  - 30daychallenge
-slug: web-development
+  -
 img_path: /assets/img/
 image: early-retirement-extreme.jpeg
 draft: true
@@ -16,7 +15,7 @@ draft: true
 ## Modern Slavery
 
 ![The Lock-In](lock-in.png)
-_Lock-In_
+_The Lock-In_
 
 ### Waste Economy
 

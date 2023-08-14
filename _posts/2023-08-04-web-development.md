@@ -8,7 +8,6 @@ tags:
   - web development
   - 30daychallenge
   - NoCode/LowCode
-slug: web-development
 img_path: /assets/img/
 image: flutterflow.png
 ---
