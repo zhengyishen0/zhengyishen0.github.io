@@ -1,11 +1,8 @@
 ---
 title: What I Learned After Building & Launching a SaaS in 30 Days
 date: 2023-08-01T17:49:49.790Z
-categories:
-  - 30daychallenge
-tags:
-  - web development
-  - 30daychallenge
+categories: [30daychallenge]
+tags: [web development, 30daychallenge]
 img_path: /assets/img/
 image: twitter_1.png
 ---

@@ -1,13 +1,8 @@
 ---
 title: Creative Coding Like an Artist
 date: 2023-08-04T19:24:49.166Z
-categories:
-  - 30daychallenge
-tags:
-  - saas
-  - web development
-  - 30daychallenge
-  - NoCode/LowCode
+categories: [30daychallenge]
+tags: [saas, web development, 30daychallenge]
 img_path: /assets/img/
 image: flutterflow.png
 ---
