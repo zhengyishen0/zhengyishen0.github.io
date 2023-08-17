@@ -1,14 +1,12 @@
 ---
 title: Show Your Work
 date: 2023-08-16T17:53:14.977Z
-categories:
-tags:
+categories: null
+tags: null
 img_path: /assets/img/
-image: show-your-work.png
-published: false
+image: /show-your-work.jpg
+slug: show-your-work
 ---
-
-# Show Your Work
 
 ## Share Your Attribution
 

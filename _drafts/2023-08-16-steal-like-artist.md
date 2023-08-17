@@ -1,11 +1,11 @@
 ---
 title: Steal Like an Artist
 date: 2023-08-01T17:49:49.790Z
-categories:
-tags:
+categories: null
+tags: null
 img_path: /assets/img/
-image: steal-like-artist.png
-published: false
+image: /steal-like-artist.jpg
+slug: steal-like-artist
 ---
 
 ## Nothing is completely original

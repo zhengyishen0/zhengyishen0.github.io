@@ -40,9 +40,14 @@
           "type": "categories"
         },
         {
-          "title": "Draft",
+          "title": "Published",
           "name": "published",
           "type": "draft"
+        },
+        {
+          "title": "img_path",
+          "name": "img_path",
+          "type": "string"
         }
       ]
     }
@@ -58,11 +63,18 @@
     "saas",
     "web development"
   ],
-  "frontMatter.taxonomy.categories": ["30daychallenge"],
+  "frontMatter.taxonomy.categories": [
+    "30daychallenge"
+  ],
   "frontMatter.content.pageFolders": [
     {
       "title": "_posts",
       "path": "[[workspace]]/_posts",
+      "previewPath": "'posts'"
+    },
+    {
+      "title": "_drafts",
+      "path": "[[workspace]]/_drafts",
       "previewPath": "'posts'"
     }
   ],

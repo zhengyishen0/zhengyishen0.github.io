@@ -1,10 +1,11 @@
 ---
 title: Early Retirement Extreme
 date: 2023-08-13T19:31:00.640Z
-categories: [Book Excerpts]
+categories:
+  - Book Excerpts
 tags: []
 image: /assets/img/early-retirement-extreme.jpeg
-published: false
+slug: early-retirement-extreme
 ---
 
 **_All quotes are from the original author._**
