@@ -86,8 +86,6 @@ This was just two weeks into the challenge and I had already stuck in my develop
 ![IgniteMe.app on Streamlit](/streamlit.png)
 _[IgniteMe.app](https://ignite-me.streamlit.app/) on Streamlit_
 
-![[IgniteMe.App](https://ignite-me.streamlit.app/) on Streamlit](/streamlit.png)
-
 ## Development Phase II: Build with FlutterFlow (Day 22 - Day 30)
 
 > _The best code is no code at all. — Jeff Atwood_

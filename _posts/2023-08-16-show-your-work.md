@@ -5,6 +5,7 @@ categories:
 tags:
 img_path: /assets/img/
 image: show-your-work.png
+published: false
 ---
 
 # Show Your Work

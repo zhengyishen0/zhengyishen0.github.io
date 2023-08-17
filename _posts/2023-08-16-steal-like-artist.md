@@ -5,6 +5,7 @@ categories:
 tags:
 img_path: /assets/img/
 image: steal-like-artist.png
+published: false
 ---
 
 ## Nothing is completely original
