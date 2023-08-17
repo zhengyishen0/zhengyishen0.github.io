@@ -5,6 +5,7 @@
       "name": "default",
       "pageBundle": false,
       "previewPath": null,
+      "template": "[[workspace]]/.frontmatter/templates/blog.md",
       "fields": [
         {
           "title": "Title",
@@ -25,9 +26,13 @@
         },
         {
           "title": "Content preview",
-          "name": "image",
-          "type": "image",
-          "isPreviewImage": true
+          "name": "preview",
+          "type": "image"
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
         },
         {
           "title": "Tags",
@@ -38,22 +43,12 @@
           "title": "Categories",
           "name": "categories",
           "type": "categories"
-        },
-        {
-          "title": "Published",
-          "name": "published",
-          "type": "draft"
-        },
-        {
-          "title": "img_path",
-          "name": "img_path",
-          "type": "string"
         }
       ]
     }
   ],
   "frontMatter.framework.id": "jekyll",
-  "frontMatter.content.publicFolder": "assets/img",
+  "frontMatter.content.publicFolder": "assets",
   "frontMatter.preview.host": "http://localhost:4000",
   "frontMatter.taxonomy.tags": [
     "buildinpublic",
@@ -63,9 +58,7 @@
     "saas",
     "web development"
   ],
-  "frontMatter.taxonomy.categories": [
-    "30daychallenge"
-  ],
+  "frontMatter.taxonomy.categories": ["30daychallenge"],
   "frontMatter.content.pageFolders": [
     {
       "title": "_posts",
@@ -78,5 +71,20 @@
       "previewPath": "'posts'"
     }
   ],
-  "frontMatter.git.enabled": true
+  "frontMatter.git.enabled": true,
+  "frontMatter.content.snippets": {
+    "footnote": {
+      "description": "",
+      "body": [
+        "---",
+        "",
+        "<!-- prettier-ignore -->",
+        "> **I’d love to hear your thoughts! Let me know on Twitter [@ZhengyiShen](https://twitter.com/intent/tweet?text=@ZhengyiShen&url={{ page.url | absolute_url }})**",
+        "{: .prompt-tip }",
+        "",
+        "{% include links.md %}"
+      ],
+      "fields": []
+    }
+  }
 }
