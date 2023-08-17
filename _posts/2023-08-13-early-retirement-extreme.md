@@ -3,15 +3,14 @@ title: Early Retirement Extreme
 date: 2023-08-13T19:31:00.640Z
 categories: [Book Excerpts]
 tags: []
-img_path: /assets/img/
-image: early-retirement-extreme.jpeg
+image: /assets/img/early-retirement-extreme.jpeg
 ---
 
 **_All quotes are from the original author._**
 
 ## Modern Slavery
 
-![The Lock-In](lock-in.png)
+![The Lock-In](/assets/img/lock-in.png)
 _The Lock-In_
 
 ### Waste Economy
@@ -49,7 +48,7 @@ Ever notice how many successful business leaders are college dropouts? It did no
 
 The totality of all people forms an ecosystem or a culture of four interdependent types of differently behaving and differently thinking kinds of humans. Each type of human tends to fill a different niche of society.
 
-![Four Types of Human](four-types-human.png)
+![Four Types of Human](/assets/img/four-types-human.png)
 _Four Types of Human_
 
 In different periods, different types will dominate the culture.
@@ -84,7 +83,7 @@ To live as a free person … it's necessary to understand how the world works an
 - One must learn the general systemic rules that allow one to improvise and really live life the way it was intended--in your own way
 - … one must build an overarching philosophy of what it means to live, which is different from the consumer philosophy of "follow advice/orders; work; get paycheck; spend paycheck; get stuff; repeat.
 
-![Breaking Out](break-out.png)
+![Breaking Out](/assets/img/break-out.png)
 _Breaking Out_
 
 ### Complexity = Degrees of Freedom
@@ -107,7 +106,7 @@ Freedom is attained by creating a large gap between production and consumption
 Changing your frame of mind is key to escaping, but change is a challenge. This challenge can become a struggle if your frame of mind is incompatible with your adopted lifestyle. In other words, **you need to believe in your lifestyle as an end rather than as a means to an end**.
 Many people associate their ideas and thoughts with who they are as a person. This is a significant barrier, since admitting that an alternative is better is perceived as a personal failure. Barriers are therefore raised to protect the ego and avoid a change of perceptions (see also [Ego Development Theory](http://xxx)).
 
-![F.I.R.E](thoughts-on-fire.png)
+![F.I.R.E](/assets/img/thoughts-on-fire.png)
 _F.I.R.E_
 
 ## Reference

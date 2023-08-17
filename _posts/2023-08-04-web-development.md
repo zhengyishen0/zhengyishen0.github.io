@@ -1,10 +1,15 @@
 ---
 title: Creative Coding Like an Artist
 date: 2023-08-04T19:24:49.166Z
-categories: [30daychallenge]
-tags: [saas, web development, 30daychallenge]
+categories:
+  - 30daychallenge
+tags:
+  - saas
+  - web development
+  - 30daychallenge
 img_path: /assets/img/
 image: flutterflow.png
+slug: web-development
 ---
 
 > My web development methodology and tech stack choice after building the same app three times using Python, JavaScript, and FlutterFlow

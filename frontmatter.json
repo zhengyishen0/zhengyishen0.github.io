@@ -42,20 +42,16 @@
           "type": "string"
         },
         {
-          "title": "preview",
-          "name": "preview",
-          "type": "string"
-        },
-        {
-          "title": "image_path",
-          "name": "image_path",
-          "type": "image"
+          "title": "image",
+          "name": "image",
+          "type": "image",
+          "isPreviewImage": true
         }
       ]
     }
   ],
   "frontMatter.framework.id": "jekyll",
-  "frontMatter.content.publicFolder": "assets",
+  "frontMatter.content.publicFolder": "assets/img",
   "frontMatter.preview.host": "http://localhost:4000",
   "frontMatter.taxonomy.tags": [
     "buildinpublic",
@@ -65,17 +61,13 @@
     "saas",
     "web development"
   ],
-  "frontMatter.taxonomy.categories": [
-    "30daychallenge"
-  ],
+  "frontMatter.taxonomy.categories": ["30daychallenge"],
   "frontMatter.content.pageFolders": [
     {
       "title": "_posts",
-      "path": "[[workspace]]/_posts"
-    },
-    {
-      "title": "_tabs",
-      "path": "[[workspace]]/_tabs"
+      "path": "[[workspace]]/_posts",
+      "previewPath": "'posts'"
     }
-  ]
+  ],
+  "frontMatter.git.enabled": true
 }

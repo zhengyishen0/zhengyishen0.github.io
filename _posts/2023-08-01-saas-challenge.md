@@ -1,10 +1,14 @@
 ---
 title: What I Learned After Building & Launching a SaaS in 30 Days
 date: 2023-08-01T17:49:49.790Z
-categories: [30daychallenge]
-tags: [web development, 30daychallenge]
+categories:
+  - 30daychallenge
+tags:
+  - web development
+  - 30daychallenge
 img_path: /assets/img/
-image: twitter_1.png
+image: /twitter_1.png
+slug: saas-challenge
 ---
 
 > A journey of building an online community for achievers
@@ -79,8 +83,10 @@ Streamlit is perfect for building data apps, but my app is just a traditional fo
 
 This was just two weeks into the challenge and I had already stuck in my development with only a bare-bone app. What should I do next?
 
-![IgniteMe.app on Streamlit](streamlit.png)
+![IgniteMe.app on Streamlit](/streamlit.png)
 _[IgniteMe.app](https://ignite-me.streamlit.app/) on Streamlit_
+
+![[IgniteMe.App](https://ignite-me.streamlit.app/) on Streamlit](/streamlit.png)
 
 ## Development Phase II: Build with FlutterFlow (Day 22 - Day 30)
 
