@@ -122,7 +122,7 @@ In their book, Significant Objects, Joshua Glenn and Rob Walker recount an exper
 
 "A lot of the ideas in this book started out as tweets, which then became blog posts, which then became book chapters. Small things, over time, can get big."
 
-## Keep Creative
+## **Keep Creative**
 
 ### Don’t Pause
 
