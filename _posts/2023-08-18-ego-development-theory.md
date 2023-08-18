@@ -16,13 +16,13 @@ description: A roadmap of the human growth journey and a framework for understan
 
 > _Know Thyself – Socrates_
 
-## Book in 3 Sentences
+## **Book in 3 Sentences**
 
 - The ego is a tireless function of meaning-making against endogenous helplessness
 - The way we make sense of reality shapes the reality we sense
 - Ego development is an expanding worldview, from simple to complex, from static to dynamic, from self-centric to world-aware
 
-## Key Takeaways
+## **Key Takeaways**
 
 ### Continuous Personal Growth
 
@@ -38,7 +38,7 @@ Business is about value exchange at its core. But value itself is a subjective c
 
 If technology is about making things happen (e.g. flying to Mars), then business is about making people’s lives meaningful (e.g. Mars may provide a better future than Earth). It does not start from your brilliant idea in the garage as modern startup stories told us. It starts with seeing people, understanding their needs, and helping them transform into better selves.
 
-## Book Notes
+## **Book Notes**
 
 Ego Development Theory (EDT) is a work completed by [Susanne Cook-Greuter](https://instituteofcoaching.org/author/cook-greuter-susanne) over the last several decades and a theory that has come a long way since [Jane Loevinger’s original](https://www.sciencedirect.com/topics/psychology/ego-development#:~:text=In%20Loevinger's%20model%20of%20ego,of%20reference%20can%20be%20arrayed.) in 1970.
 
@@ -120,7 +120,7 @@ _Stages of Ego Development_
 
 The 5 stages we discussed above revealed five universal and eternal needs of humans: safety (1.5), belongings (2.0), esteem (2.5), self-actualization (3.0), and transcendence (3.5). If you find this familiar, it’s because they are very much the same as [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs), which reflects the fundamental human paradox of wanting to be exceptional while also being afraid of being atypical.
 
-## Reference
+## **Reference**
 
 - [Ego Development: A Full-Spectrum Theory Of Vertical Growth And Meaning Making](https://www.researchgate.net/publication/356357233_Ego_Development_A_Full-Spectrum_Theory_Of_Vertical_Growth_And_Meaning_Making), [Susanne Cook-Greuter](https://instituteofcoaching.org/author/cook-greuter-susanne)
 - [An Introduction to “Ego Development Theory” by Susanne Cook-Greuter (EDT Summary)](https://www.sloww.co/ego-development-theory-cook-greuter/)
