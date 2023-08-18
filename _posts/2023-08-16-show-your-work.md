@@ -66,7 +66,7 @@ In their book, Significant Objects, Joshua Glenn and Rob Walker recount an exper
 
 > _"That’s all any of us are: amateurs. We don’t live long enough to be anything else." —Charlie Chaplin_
 
-Today it is the amateur —the enthusiast who pursues her work in the spirit of love (in French, the word means “lover”), regardless of the potential for fame, money, or career—who often has the advantage over the professional.
+"Today it is the amateur —the enthusiast who pursues her work in the spirit of love (in French, the word means “lover”), regardless of the potential for fame, money, or career—who often has the advantage over the professional."
 
 “In the beginner’s mind, there are many possibilities,” said Zen monk Shunryu Suzuki. “In the expert’s mind, there are few.”
 
@@ -80,7 +80,7 @@ Today it is the amateur —the enthusiast who pursues her work in the spirit of 
 
 "Be on the lookout for voids that you can fill with your own efforts, no matter how bad they are at first. Don’t worry, for now, about how you’ll make money or a career off it."
 
-The best way to get started on the path to sharing your work is to think about what you want to learn, and make a commitment to learning it in front of others. (#30daychallenge)
+"The best way to get started on the path to sharing your work is to think about what you want to learn, and make a commitment to learning it in front of others. (#30daychallenge)"
 
 #### Share Your Attribution
 
@@ -159,3 +159,5 @@ The best way to get started on the path to sharing your work is to think about w
 {: .prompt-tip }
 
 {% include links.md %}
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Write &amp; Grow Blog in 30 Days: Day 30 <br><br>“Show Your Work! ” by Austin Kleon (<a href="https://twitter.com/austinkleon?ref_src=twsrc%5Etfw">@austinkleon</a>) 📖 <br><br>The book that inspired me to start blogging. <br>A must-read for creators, entrepreneurs, and artists in this digital age.<a href="https://twitter.com/hashtag/30daychallenge?src=hash&amp;ref_src=twsrc%5Etfw">#30daychallenge</a> <a href="https://twitter.com/hashtag/WritingCommunity?src=hash&amp;ref_src=twsrc%5Etfw">#WritingCommunity</a> <a href="https://twitter.com/hashtag/book?src=hash&amp;ref_src=twsrc%5Etfw">#book</a><a href="https://t.co/4AkRQWfA2k">https://t.co/4AkRQWfA2k</a></p>&mdash; Zhengyi Shen (@ZhengyiShen) <a href="https://twitter.com/ZhengyiShen/status/1692661124037070944?ref_src=twsrc%5Etfw">August 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
