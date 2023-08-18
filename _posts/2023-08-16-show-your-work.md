@@ -13,20 +13,20 @@ keywords:
   - Creativity
 ---
 
-## **Key Takeaways**
+**Key Takeaways**
 
-**Sharing is about Forming Connections.**
+## Sharing is about Forming Connections
 
 - Showing appreciation for people who inspired you, and passing it on to others.
 - Talking about what you love so others who love the same things can find you.
 - Publishing bits and pieces of your work or ideas as you go and inviting people to collaborate.
 - Taking ownership of your work and your ideas and sharing them with a caring audience.
 
-## **Book Notes**
+**Book Notes**
 
 _All quotes are from the original author unless explicitly stated otherwise._
 
-### Don't Have To Be A Genius
+## **Don't Have To Be A Genius**
 
 > _"Creativity is always, in some sense, a collaboration, the result of a mind connected to other minds."_
 
@@ -34,7 +34,7 @@ _All quotes are from the original author unless explicitly stated otherwise._
 
 "If you look back closely at history, many of the people who we think of as lone geniuses were actually part of 'a whole scene of people who were supporting each other, looking at each other’s work, copying from each other, stealing ideas, and contributing ideas.'"
 
-#### Find Your Own Kind
+### Find Your Own Kind
 
 > _“Part of the act of creating is in discovering your own kind. They are everywhere. But don’t look for them in the wrong places.” —Henry Miller_
 
@@ -44,7 +44,7 @@ _All quotes are from the original author unless explicitly stated otherwise._
 
 "Being open and honest about what you like is the best way to connect with people who like those things, too."
 
-#### Build Your Audience
+### Build Your Audience
 
 > _"being good at things is the only thing that earns you clout or connections." -- Albini_
 
@@ -52,7 +52,7 @@ _All quotes are from the original author unless explicitly stated otherwise._
 
 "Instead of wasting their time 'networking', they’re taking advantage of the network. By generously sharing their ideas and their knowledge, they often gain an audience that they can then leverage when they need it—for fellowship, feedback, or patronage."
 
-#### Tell A Good Story
+### Tell A Good Story
 
 > _"'The cat sat on a mat' is not a story. 'The cat sat on the dog’s mat' is a story." —John le Carré_
 
@@ -62,7 +62,7 @@ Every client presentation, every personal essay, every cover letter, every fund-
 
 In their book, Significant Objects, Joshua Glenn and Rob Walker recount an experiment in which they set out to test this hypothesis: “Stories are such a powerful driver of emotional value that their effect on any given object’s subjective value can actually be measured objectively.” By the end of the experiment, they had sold $128.74 worth of trinkets for $3,612.51.
 
-#### We Are All Amateurs
+## We Are All Amateurs
 
 > _"That’s all any of us are: amateurs. We don’t live long enough to be anything else." —Charlie Chaplin_
 
@@ -74,7 +74,7 @@ In their book, Significant Objects, Joshua Glenn and Rob Walker recount an exper
 
 "The world is changing at such a rapid rate that it’s turning us all into amateurs. Even for professionals, the best way to flourish is to retain an amateur’s spirit and embrace uncertainty and the unknown."
 
-### Start Sharing
+## **Start Sharing**
 
 > _“The stupidest possible creative act is still a creative act.” -- Clay Shirky_
 
@@ -82,13 +82,13 @@ In their book, Significant Objects, Joshua Glenn and Rob Walker recount an exper
 
 "The best way to get started on the path to sharing your work is to think about what you want to learn, and make a commitment to learning it in front of others. (#30daychallenge)"
 
-#### Share Your Attribution
+### Share Your Attribution
 
 "Give a shout-out to the people who’ve helped you stumble onto good work and also leave a bread-crumb trail that people you’re sharing with can follow back to the sources of your inspiration."
 
 "Attribution is all about providing context for what you’re sharing: what the work is, who made it, how they made it, when and where it was made, why you’re sharing it, why people should care about it, and where people can see some more work like it. Attribution is about putting little museum labels next to the stuff you share."
 
-#### Share Your Process
+### Share Your Process
 
 > _“In order for connection to happen, we have to allow ourselves to be seen—really seen.” -- Brené Brown_
 
@@ -98,7 +98,7 @@ In their book, Significant Objects, Joshua Glenn and Rob Walker recount an exper
 
 "'What are you working on?' Stick to that question and you’ll be good. Don’t show your lunch or your latte; show your work."
 
-#### Share Your Taste
+### Share Your Taste
 
 > _“You’re only as good as your record collection.” -- DJ Spooky_
 
@@ -110,7 +110,7 @@ In their book, Significant Objects, Joshua Glenn and Rob Walker recount an exper
 
 "Talk about the things you love. Your voice will follow."
 
-#### Share Online
+### Share Online
 
 > _Communicating with people is one skill. While communicating with the world requires a whole different skill set._
 
@@ -122,21 +122,21 @@ In their book, Significant Objects, Joshua Glenn and Rob Walker recount an exper
 
 "A lot of the ideas in this book started out as tweets, which then became blog posts, which then became book chapters. Small things, over time, can get big."
 
-### Keep Creative
+## Keep Creative
 
-#### Don’t Pause
+### Don’t Pause
 
 "You avoid stalling out in your career by never losing momentum. Here’s how you do it: Instead of taking a break in between projects, waiting for feedback, and worrying about what’s next, use the end of one project to light up the next one."
 
 "Author Ernest Hemingway would stop in the middle of a sentence at the end of his day’s work so he knew where to start in the morning."
 
-#### Start Over
+### Start Over
 
 "'I need to sort of tear down everything I’ve done and rebuild from scratch,' said director Steven Soderbergh about his upcoming retirement from making films. 'Not because I’ve figured everything out, I’ve just figured out what I can’t figure out and I need to tear it down and start over again.'"
 
 "The designer Stefan Sagmeister swears by the power of the sabbatical—every seven years, he shuts down his studio and takes a year off. 'Everything that we designed in the seven years following the first sabbatical had its roots in thinking done during that sabbatical.'"
 
-#### More Than Money
+### More Than Money
 
 > _“We don’t make movies to make money, we make money to make more movies.” —Walt Disney_
 
@@ -144,7 +144,7 @@ In their book, Significant Objects, Joshua Glenn and Rob Walker recount an exper
 
 "If an opportunity comes along that will allow you to do more of the kind of work you want to do, say Yes. If an opportunity comes along that would mean more money, but less of the kind of work you want to do, say No."
 
-#### Stay Away From Vampires
+### Stay Away From Vampires
 
 "It’s a simple way to know who you should let in and out of your life. If, after hanging out with someone you feel worn out and depleted, that person is a vampire. If, after hanging out with someone you still feel full of energy, that person is not a vampire. Of course, The Vampire Test works on many things in our lives, not just people—you can apply it to jobs, hobbies, places, etc."
 
