@@ -6,7 +6,7 @@ categories:
 tags:
   - book notes
 img_path: /assets/img/
-image: ego-development-theory.png
+image: /ego-development-theory.png
 slug: ego-development-theory
 keywords:
   - Ego Development
