@@ -11,7 +11,7 @@ slug: ego-development-theory
 keywords:
   - Ego Development
   - Value Creation
-description: ""
+description: Ego Development Theory maps out the journey of human growth and provides a framework for us to understand ourselves, others, and the world we live in.
 ---
 
 > _Know Thyself – Socrates_
