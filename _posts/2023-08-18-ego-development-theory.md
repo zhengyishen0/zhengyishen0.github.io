@@ -40,7 +40,7 @@ If technology is about making things happen (e.g. flying to Mars), then business
 
 ## Book Notes
 
-Ego Development Theory (EDT) is a work completed by [Susanne Cook-Greuter](https://instituteofcoaching.org/author/cook-greuter-susanne) over the last several decades and a theory that has come a long way since Jane Loevinger’s original in 1970.
+Ego Development Theory (EDT) is a work completed by [Susanne Cook-Greuter](https://instituteofcoaching.org/author/cook-greuter-susanne) over the last several decades and a theory that has come a long way since [Jane Loevinger’s original](https://www.sciencedirect.com/topics/psychology/ego-development#:~:text=In%20Loevinger's%20model%20of%20ego,of%20reference%20can%20be%20arrayed.) in 1970.
 
 The language in Susanne’s paper is so beautiful and articulated that I think there is no better way to explain the theory than using quotes from the original author.
 
