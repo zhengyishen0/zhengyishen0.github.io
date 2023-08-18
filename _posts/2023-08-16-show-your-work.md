@@ -13,16 +13,16 @@ keywords:
   - Creativity
 ---
 
-**Key Takeaways**
+## **Key Takeaways**
 
-## Sharing is about Forming Connections
+**Sharing is about Forming Connections**
 
 - Showing appreciation for people who inspired you, and passing it on to others.
 - Talking about what you love so others who love the same things can find you.
 - Publishing bits and pieces of your work or ideas as you go and inviting people to collaborate.
 - Taking ownership of your work and your ideas and sharing them with a caring audience.
 
-**Book Notes**
+## **Book Notes**
 
 _All quotes are from the original author unless explicitly stated otherwise._
 
