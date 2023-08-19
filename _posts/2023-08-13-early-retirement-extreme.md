@@ -11,7 +11,7 @@ slug: early-retirement-extreme
 keywords:
   - consumerism
   - freedom
-  - early retirement
+  - financial independence
 description: The moment we realize that we are locked in the system as a wage slave, is the moment we awaken to the possibility of freedom.
 ---
 
@@ -124,12 +124,12 @@ _Breaking Out_
 
 "Complexity provides an advantage over simplicity because of its greater functionality ... therefore, results in flexibility."
 
-"maintaining increasing levels of complexity requires increasingly more effort. (But) It's always easier to cut away than it is to create. (Refer to product-oriented thinking)
+"Maintaining increasing levels of complexity requires increasingly more effort. (But) It's always easier to cut away than it is to create. (Refer to product-oriented thinking)
 Plans work well if the number of degrees of freedom is limited so that few things can go wrong--that is, not according to plan."
 
 ### Freedom = Production - Consumption
 
-"Freedom is attained by creating a large gap between production and consumption:"
+"Freedom is attained by creating a large gap between production and consumption."
 
 1. "First, reduce waste and increase efficiency. It's possible to live with the same benefits as the rest of society for one quarter of what the average consumer spends."
 2. "Second, having significantly reduced expenses, invest the difference in businesses."
@@ -157,3 +157,5 @@ _F.I.R.E_
 {: .prompt-tip }
 
 {% include links.md %}
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Early Retirement Extreme” by Jacob Lunder Fisker (<a href="https://twitter.com/extremejacob?ref_src=twsrc%5Etfw">@extremejacob</a>)📖 <br><br>This book is more than just a personal finance book. It is a profound reflection on modern life and a roadmap to regaining your freedom.<a href="https://twitter.com/hashtag/WritingCommunity?src=hash&amp;ref_src=twsrc%5Etfw">#WritingCommunity</a> <a href="https://twitter.com/hashtag/book?src=hash&amp;ref_src=twsrc%5Etfw">#book</a> <a href="https://t.co/wXnUgqg3oP">https://t.co/wXnUgqg3oP</a></p>&mdash; Zhengyi Shen (@ZhengyiShen) <a href="https://twitter.com/ZhengyiShen/status/1692959956083863985?ref_src=twsrc%5Etfw">August 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
