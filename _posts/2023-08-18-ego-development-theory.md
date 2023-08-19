@@ -40,9 +40,13 @@ If technology is about making things happen (e.g. flying to Mars), then business
 
 ## **Book Notes**
 
-Ego Development Theory (EDT) is a work completed by [Susanne Cook-Greuter](https://instituteofcoaching.org/author/cook-greuter-susanne) over the last several decades and a theory that has come a long way since [Jane Loevinger’s original](https://www.sciencedirect.com/topics/psychology/ego-development#:~:text=In%20Loevinger's%20model%20of%20ego,of%20reference%20can%20be%20arrayed.) in 1970.
+> My notes are in the form of [clipping](<https://en.wikipedia.org/wiki/Clipping_(publications)>) that summarizes a book in the author's own words. I have organized the excerpts from the book in a way that I find most digestible. Hope you enjoy it!
+>
+> _All quotes are from the original author._
 
-The language in Susanne’s paper is so beautiful and articulated that I think there is no better way to explain the theory than using quotes from the original author.
+## Introduction to Ego Development Theory
+
+Ego Development Theory (EDT) is a work completed by [Susanne Cook-Greuter](https://instituteofcoaching.org/author/cook-greuter-susanne) over the last several decades and a theory that has come a long way since [Jane Loevinger’s original](https://www.sciencedirect.com/topics/psychology/ego-development#:~:text=In%20Loevinger's%20model%20of%20ego,of%20reference%20can%20be%20arrayed.) in 1970.
 
 ### What is Ego?
 
@@ -88,7 +92,7 @@ The language in Susanne’s paper is so beautiful and articulated that I think t
 
 “To become cognizant of the pitfalls of the language habit as well as its tremendous gift to humanity, is a unique feature of the most advanced ego stages.”
 
-### Stages of Ego Development
+## Stages of Ego Development
 
 > _I simplified and organized the stages by the dimension of world views. If you’re interested in the original theory, read the paper **[here](https://www.researchgate.net/publication/356357233_Ego_Development_A_Full-Spectrum_Theory_Of_Vertical_Growth_And_Meaning_Making)**._
 

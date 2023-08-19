@@ -24,13 +24,13 @@ keywords:
 
 ## **Book Notes**
 
-My notes are in the form of [clipping](<https://en.wikipedia.org/wiki/Clipping_(publications)>) (which is also inspired by Austin and his work [Newspaper Blackout](https://newspaperblackout.com/)).
+> My notes are in the form of [clipping](<https://en.wikipedia.org/wiki/Clipping_(publications)>) that summarizes a book in the author's own words. I have organized the excerpts from the book in a way that I find most digestible. Hope you enjoy it!
+>
+> This format is also inspired by [Austin](https://twitter.com/austinkleon) and his work [Newspaper Blackout](https://newspaperblackout.com/)
+>
+> _All quotes are from the original author._
 
-I found one the best ways to summarize a book is to use the author's own words. I took all the excepts from the book and reorganized them in the structure that I think is most digestible. I hope you enjoy it!
-
-_All quotes are from the original author unless explicitly stated otherwise._
-
-## **Don't Have To Be A Genius**
+## Don't Have To Be A Genius
 
 > _"Creativity is always, in some sense, a collaboration, the result of a mind connected to other minds."_
 
@@ -78,7 +78,7 @@ In their book, Significant Objects, Joshua Glenn and Rob Walker recount an exper
 
 "The world is changing at such a rapid rate that it’s turning us all into amateurs. Even for professionals, the best way to flourish is to retain an amateur’s spirit and embrace uncertainty and the unknown."
 
-## **Start Sharing**
+## Start Sharing
 
 > _“The stupidest possible creative act is still a creative act.” -- Clay Shirky_
 
@@ -126,7 +126,7 @@ In their book, Significant Objects, Joshua Glenn and Rob Walker recount an exper
 
 "A lot of the ideas in this book started out as tweets, which then became blog posts, which then became book chapters. Small things, over time, can get big."
 
-## **Keep Creative**
+## Keep Creative
 
 ### Don’t Pause
 
@@ -154,7 +154,7 @@ In their book, Significant Objects, Joshua Glenn and Rob Walker recount an exper
 
 ## **Reference**
 
-- [Show Your Work](https://austinkleon.com/show-your-work/), [Austin Kleon](https://twitter.com/austinkleon)
+- [Show Your Work!](https://austinkleon.com/show-your-work/), [Austin Kleon](https://twitter.com/austinkleon)
 
 ---
 

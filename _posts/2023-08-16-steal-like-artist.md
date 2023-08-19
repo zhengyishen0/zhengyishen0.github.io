@@ -21,13 +21,13 @@ description: Originality is our heritage of human creativity, our taste in colle
 
 ## **Book Notes**
 
-My notes are in the form of [clipping](<https://en.wikipedia.org/wiki/Clipping_(publications)>) (which is also inspired by Austin and his work [Newspaper Blackout](https://newspaperblackout.com/)).
+> My notes are in the form of [clipping](<https://en.wikipedia.org/wiki/Clipping_(publications)>) that summarizes a book in the author's own words. I have organized the excerpts from the book in a way that I find most digestible. Hope you enjoy it!
+>
+> This format is also inspired by [Austin](https://twitter.com/austinkleon) and his work [Newspaper Blackout](https://newspaperblackout.com/)
+>
+> _All quotes are from the original author._
 
-I found one the best ways to summarize a book is to use the author's own words. I took all the excepts from the book and reorganized them in the structure that I think is most digestible. I hope you enjoy it!
-
-_All quotes are from the original author unless explicitly stated otherwise._
-
-## **The Truth and Path to Originality**
+## The Truth and Path to Originality
 
 ### Nothing is Completely Original
 
@@ -87,7 +87,7 @@ _All quotes are from the original author unless explicitly stated otherwise._
 
 "It’s in the act of making things and doing our work that we figure out who we are."
 
-## **Secrets to Staying Creative**
+## Secrets to Staying Creative
 
 ### Take Time To Be Bored.
 
