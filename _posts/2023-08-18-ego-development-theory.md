@@ -9,8 +9,8 @@ img_path: /assets/img/
 image: /ego-development-theory.png
 slug: ego-development-theory
 keywords:
-  - Ego Development
-  - Value Creation
+  - ego development
+  - value creation
 description: A roadmap of the human growth journey and a framework for understanding ourselves, others, and the world we live in.
 ---
 
@@ -22,7 +22,7 @@ description: A roadmap of the human growth journey and a framework for understan
 - The way we make sense of reality shapes the reality we sense
 - Ego development is an expanding worldview, from simple to complex, from static to dynamic, from self-centric to world-aware
 
-## **Key Takeaways**
+## **Takeaways**
 
 ### Continuous Personal Growth
 

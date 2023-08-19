@@ -2,7 +2,7 @@
 title: Early Retirement Extreme
 date: 2023-08-13T19:31:00.640Z
 categories:
-  - Book Excerpts
+  - book notes
 tags: []
 image: /early-retirement-extreme.jpeg
 slug: early-retirement-extreme

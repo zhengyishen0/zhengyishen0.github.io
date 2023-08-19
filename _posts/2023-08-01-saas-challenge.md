@@ -4,8 +4,9 @@ date: 2023-08-01T17:49:49.790Z
 categories:
   - 30daychallenge
 tags:
-  - web development
   - 30daychallenge
+  - web development
+  - buildinpublic
 img_path: /assets/img/
 image: /twitter_1.png
 slug: saas-challenge

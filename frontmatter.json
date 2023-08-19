@@ -52,14 +52,15 @@
     }
   ],
   "frontMatter.taxonomy.tags": [
+    "30daychallenge",
+    "book notes",
     "buildinpublic",
-    "entrepreneurship",
-    "indiehackers",
-    "lean startup",
-    "saas",
     "web development"
   ],
-  "frontMatter.taxonomy.categories": ["30daychallenge"],
+  "frontMatter.taxonomy.categories": [
+    "30daychallenge",
+    "book notes"
+  ],
   "frontMatter.content.publicFolder": "assets/img",
   "frontMatter.content.pageFolders": [
     {

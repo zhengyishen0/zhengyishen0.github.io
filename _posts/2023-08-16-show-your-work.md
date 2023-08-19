@@ -10,12 +10,12 @@ image: /show-your-work.jpg
 slug: show-your-work
 description: Posting your creations out there is vital today, allowing you to connect with kindred spirits, build authority and trust, and open up new career avenues.
 keywords:
-  - Creativity
+  - creativity
 ---
 
-## **Key Takeaways**
+## **Takeaways**
 
-**Sharing is about Forming Connections**
+### Sharing is about Forming Connections
 
 - Showing appreciation for people who inspired you, and passing it on to others.
 - Talking about what you love so others who love the same things can find you.
@@ -23,6 +23,10 @@ keywords:
 - Taking ownership of your work and your ideas and sharing them with a caring audience.
 
 ## **Book Notes**
+
+My notes are in the form of [clipping](<https://en.wikipedia.org/wiki/Clipping_(publications)>) (which is also inspired by Austin and his work [Newspaper Blackout](https://newspaperblackout.com/)).
+
+I found one the best ways to summarize a book is to use the author's own words. I took all the excepts from the book and reorganized them in the structure that I think is most digestible. I hope you enjoy it!
 
 _All quotes are from the original author unless explicitly stated otherwise._
 
