@@ -10,6 +10,7 @@ image: /steal-like-artist.jpg
 slug: steal-like-artist
 keywords:
   - creativity
+description: Originality is our heritage of human creativity, our taste in collections, and our endeavor in the face of imperfection.
 ---
 
 ## **Takeaways**
@@ -143,3 +144,5 @@ _All quotes are from the original author unless explicitly stated otherwise._
 {: .prompt-tip }
 
 {% include links.md %}
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Write &amp; Grow Blog in 30 Days: Day 30+1 <br><br>“Steal Like an Artist” by Austin Kleon📖 <br><br>The most heartwarming and inspiring book for lone creators I&#39;ve ever read!<br> <br>This guy is a genius 👉 <a href="https://twitter.com/austinkleon?ref_src=twsrc%5Etfw">@austinkleon</a> <a href="https://twitter.com/hashtag/30daychallenge?src=hash&amp;ref_src=twsrc%5Etfw">#30daychallenge</a> <a href="https://twitter.com/hashtag/WritingCommunity?src=hash&amp;ref_src=twsrc%5Etfw">#WritingCommunity</a> <a href="https://twitter.com/hashtag/book?src=hash&amp;ref_src=twsrc%5Etfw">#book</a> <a href="https://t.co/RUIoINiytB">https://t.co/RUIoINiytB</a></p>&mdash; Zhengyi Shen (@ZhengyiShen) <a href="https://twitter.com/ZhengyiShen/status/1692943514017866061?ref_src=twsrc%5Etfw">August 19, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
