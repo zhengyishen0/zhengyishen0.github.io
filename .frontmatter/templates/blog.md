@@ -9,7 +9,17 @@ slug: null
 keywords: []
 ---
 
-## New Post
+## **Takeaways**
+
+-
+
+## **Book Notes**
+
+> My notes are in the form of [clipping](<https://en.wikipedia.org/wiki/Clipping_(publications)>) that summarizes a book in the author's own words. I have organized the excerpts from the book in a way that I find most digestible. Hope you enjoy it!
+>
+> _All quotes are from the original author._
+
+# Paste Here
 
 ---
 
