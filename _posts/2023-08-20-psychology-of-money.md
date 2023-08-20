@@ -123,3 +123,5 @@ description: Unveiling the truth of wealth and happiness.
 {: .prompt-tip }
 
 {% include links.md %}
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“The Psychology of Money” by Morgan Housel (<a href="https://twitter.com/morganhousel?ref_src=twsrc%5Etfw">@morganhousel</a>)📖 <br><br>A book that unveils the mechanism of wealth accumulation. A guide to money and happiness. <a href="https://twitter.com/hashtag/WritingCommunity?src=hash&amp;ref_src=twsrc%5Etfw">#WritingCommunity</a> <a href="https://twitter.com/hashtag/book?src=hash&amp;ref_src=twsrc%5Etfw">#book</a> <a href="https://t.co/P0BgQoQMok">https://t.co/P0BgQoQMok</a></p>&mdash; Zhengyi Shen (@ZhengyiShen) <a href="https://twitter.com/ZhengyiShen/status/1693287737414066403?ref_src=twsrc%5Etfw">August 20, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
