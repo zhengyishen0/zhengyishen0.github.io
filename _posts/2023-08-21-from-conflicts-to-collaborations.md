@@ -6,8 +6,11 @@ tags: []
 img_path: /assets/img/
 image: /conflicts.jpeg
 slug: conflicts-to-collaborations
-keywords: []
-description: What Leaders Can Learn from Negotiation Experts
+keywords:
+  - leadership
+  - negotiation
+  - conflict management
+description: The mindsets and skills that every leaders need to turn conflicts into collaborations.
 ---
 
 Have you ever felt frustration in team collaborations or tense conversations with partners? Then this is the article for you.
