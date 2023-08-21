@@ -1,12 +1,12 @@
 ---
-title: The Four Steps To The Epiphany (Steve Blank)
+title: The Four Steps To The Epiphany ()Steve Blank
 date: 2023-08-21T18:55:07.908Z
 categories:
   - book notes
 tags:
   - book notes
 img_path: /assets/img/
-image: /four-steps-epiphany.jpeg
+image: /four-steps-epiphany.png
 slug: steps-epiphany
 keywords:
   - entrepreneurship
@@ -154,3 +154,5 @@ See the [customer understanding checklist](#customer-understanding)
 {: .prompt-tip }
 
 {% include links.md %}
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“The Four Steps To The Epiphany” by Steve Blank (<a href="https://twitter.com/sgblank?ref_src=twsrc%5Etfw">@sgblank</a>)📖<br><br>The book that launches the Lean Startup revolution. <br>Unconventional wisdom on how to bring your startup to success. <a href="https://twitter.com/hashtag/WritingCommunity?src=hash&amp;ref_src=twsrc%5Etfw">#WritingCommunity</a> <a href="https://twitter.com/hashtag/book?src=hash&amp;ref_src=twsrc%5Etfw">#book</a><a href="https://t.co/1WKHaBE4jf">https://t.co/1WKHaBE4jf</a></p>&mdash; Zhengyi Shen (@ZhengyiShen) <a href="https://twitter.com/ZhengyiShen/status/1693710004317016196?ref_src=twsrc%5Etfw">August 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
