@@ -1,5 +1,5 @@
 ---
-title: The Four Steps To The Epiphany ()Steve Blank
+title: The Four Steps To The Epiphany (Steve Blank)
 date: 2023-08-21T18:55:07.908Z
 categories:
   - book notes
