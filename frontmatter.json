@@ -51,16 +51,6 @@
       ]
     }
   ],
-  "frontMatter.taxonomy.tags": [
-    "30daychallenge",
-    "book notes",
-    "buildinpublic",
-    "web development"
-  ],
-  "frontMatter.taxonomy.categories": [
-    "30daychallenge",
-    "book notes"
-  ],
   "frontMatter.content.publicFolder": "assets/img",
   "frontMatter.content.pageFolders": [
     {
