@@ -1,5 +1,5 @@
 ---
-title: What I Learned After Blogging for 30 Days
+title: What I Learned After Writing 10 Blogs in 30 Days
 date: 2023-08-31T16:41:32.462Z
 categories:
   - 30daychallenge
@@ -90,7 +90,7 @@ There are many ways to build a blog site. I chose Jekyll and GitHub Pages becaus
 
 There you go! Now you have your blog live on “username.github.io”. Next up, you can:
 
-- Edit your blog using VSCode or GitHub Codespaces
+- Edit your blog using VS Code or GitHub Codespaces
 - Use a custom domain name in GitHub Pages settings
 - Config Google Analytics and Google Search Indexing
 
