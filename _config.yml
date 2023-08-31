@@ -165,6 +165,10 @@ defaults:
       path: assets/js/dist
     values:
       swcache: true
+  - scope:
+      path: ""
+    values:
+      image: assets/img/favicons/logo.png
 
 sass:
   style: compressed
