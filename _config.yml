@@ -34,8 +34,6 @@ github:
 twitter:
   username: ZhengyiShen # change to your twitter username
 
-logo: "assets/img/favicons/logo.png"
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -168,7 +166,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: assets/img/favicons/logo.png
+      image: assets/img/logo.png
 
 sass:
   style: compressed
