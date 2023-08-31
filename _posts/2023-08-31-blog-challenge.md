@@ -8,7 +8,10 @@ tags:
 img_path: /assets/img/
 image: blog-challenge.png
 slug: blog-challenge
-keywords: []
+keywords:
+  - creativity
+  - writing
+  - blog
 description: I challenged myself to write 10 blogs in 30 days, there I've grown my muscle and started to find my voice through writing.
 ---
 
