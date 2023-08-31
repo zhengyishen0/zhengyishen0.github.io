@@ -5,7 +5,8 @@ categories:
   - 30daychallenge
 tags:
   - 30daychallenge
-image: /assets/img/my-blog.png
+img_path: /assets/img/
+image: blog-challenge.png
 slug: blog-challenge
 keywords: []
 description: I challenged myself to write 10 blogs in 30 days, there I've grown my muscle and started to find my voice through writing.
@@ -22,9 +23,9 @@ Two things I learned from that challenge:
 
 ## Challenge Accepted
 
-Blogging is a great way to illustrate new ideas and attract an audience in public. The problem is – **I don't think I can write**. I didn’t think I had anything worth sharing and had little confidence in my writing, especially in a second language.To be honest, **I was totally terrified when I started it.**
+Blogging is a great way to illustrate new ideas and attract an audience in public. The problem is – **I don't think I can write**. I didn’t think I had anything worth sharing and had little confidence in my writing, especially in a second language. To be honest, **I was totally terrified when I started it.**
 
-![30-day-blog-challenge-timeline](/assets/img/blog-timeline.png)
+![30-day-blog-challenge-timeline](blog-timeline.png)
 _10 Blogs in 30 Days_
 
 4 days after the deadline of the challenge, I finally finished all my 10 blogs, and with 4 takeaways I want to share with you:
@@ -40,7 +41,7 @@ Next up, I will share the writing system I developed for blogging.
 
 _Build the system for Continuous Inspiration and Continuous Creation (CI/CC)_
 
-![Creativity System](/assets/img/creativity-system.png)
+![Creativity System](creativity-system.png)
 _The workflow for continuous creativity_
 
 ### Idea Collection (Google Keep Notes)
@@ -65,7 +66,7 @@ I'm using Markdown in VS Code as my final format for the publication, as I'm hos
 
 **10x Your Writing with these VS Code Extensions:**
 
-- **[Prettier](https://prettier.io/)** can help you to format your markdown file automatically
+- **[Prettier](https://prettier.io/)** can help you format your markdown file automatically
 - **[Font Matter](https://frontmatter.codes/)** is a CMS that can help you manage your images and all the metadata on your blog pages
 - **[GitHub Copilot](https://github.com/features/copilot)** can help you complete sentences when you are writing
 
@@ -73,7 +74,7 @@ I'm using Markdown in VS Code as my final format for the publication, as I'm hos
 
 When I first got started, I thought I would publish on Medium or Substack, but then I changed my mind right after my first two posts, and here’s why:
 
-![Hosting Solutions](/assets/img/hosting-solution.png)
+![Hosting Solutions](hosting-solution.png)
 _The comparison of hosting solutions_
 
 **Set Up a Blog Site is Easy**
@@ -98,7 +99,7 @@ There you go! Now you have your blog live on “username.github.io”. Next up, 
 
 I thought by leveraging the audience on Medium, I could focus on my writing. But the truth is it's always hard to grow an audience on any platform. Having blogs on both Medium and my own [blog site](http://zhengyishen.com) will dilute the traffic I get from Twitter.
 
-![Blog Site Traffic](/assets/img/blog-traffic.png)
+![Blog Site Traffic](blog-traffic.png)
 _My blog site's traffic_
 
 (If you’re still considering Medium or Substack, check this [article](https://penji.co/substack-vs-medium/). In short, Medium helps writers get found, Substack helps writers get paid.)
