@@ -5,8 +5,7 @@ categories:
   - 30daychallenge
 tags:
   - 30daychallenge
-img_path: /assets/img/
-image: my-blog.png
+image: /assets/img/my-blog.png
 slug: blog-challenge
 keywords: []
 description: I challenged myself to write 10 blogs in 30 days, there I've grown my muscle and started to find my voice through writing.
@@ -25,14 +24,14 @@ Two things I learned from that challenge:
 
 Blogging is a great way to illustrate new ideas and attract an audience in public. The problem is – **I don't think I can write**. I didn’t think I had anything worth sharing and had little confidence in my writing, especially in a second language.To be honest, **I was totally terrified when I started it.**
 
-![30-day-blog-challenge-timeline](blog-timeline.png)
+![30-day-blog-challenge-timeline](/assets/img/blog-timeline.png)
 _10 Blogs in 30 Days_
 
 4 days after the deadline of the challenge, I finally finished all my 10 blogs, and with 4 takeaways I want to share with you:
 
 - **Writing is hard.** It takes a tremendous amount of effort to write a single article. For example, it took me more than 10 hours to write, polish, and publish a single article on average.
 - **Facing the fear.** Once I overcame the fear of publishing my articles and developed my writing skills, my progress started to speed up. My first article was published 17 days after the challenge started, while I was able to publish almost two articles a day after day 30.
-- **Limitation is creation.** This is an unconventional insight I learned from [Austin Kleon](https://austinkleon.com/) in his book [Steal Like an Artist](x). I had a hard time summarizing the book and weaving my own thoughts within it at the beginning. Then, inspired by [Newspaper Blackout](https://newspaperblackout.com/), I decided to restrict my writing only to excerpts from the book and could only cut, paste, and organize them. And then I reduced the writing time from 10+ hours to 5 hours.
+- **Limitation is creation.** This is an unconventional insight I learned from [Austin Kleon](https://austinkleon.com/) in his book [Steal Like an Artist](https://www.zhengyishen.com/posts/steal-like-artist/). I had a hard time summarizing the book and weaving my own thoughts within it at the beginning. Then, inspired by [Newspaper Blackout](https://newspaperblackout.com/), I decided to restrict my writing only to excerpts from the book and could only cut, paste, and organize them. And then I reduced the writing time from 10+ hours to 5 hours.
 - **Make things tweetable.** This is a technique I learned from [Dan Koe](https://thedankoe.com/). Instead of writing large paragraphs, summarize the content in no more than three sentences. This will not only make your message more concise but also more shareable. A rule of thumb is if the paragraph can not fit in a tweet, it's not good enough.
 
 Next up, I will share the writing system I developed for blogging.
@@ -41,7 +40,7 @@ Next up, I will share the writing system I developed for blogging.
 
 _Build the system for Continuous Inspiration and Continuous Creation (CI/CC)_
 
-![Creativity System](creativity-system.png)
+![Creativity System](/assets/img/creativity-system.png)
 _The workflow for continuous creativity_
 
 ### Idea Collection (Google Keep Notes)
@@ -74,7 +73,7 @@ I'm using Markdown in VS Code as my final format for the publication, as I'm hos
 
 When I first got started, I thought I would publish on Medium or Substack, but then I changed my mind right after my first two posts, and here’s why:
 
-![Hosting Solutions](hosting-solution.png)
+![Hosting Solutions](/assets/img/hosting-solution.png)
 _The comparison of hosting solutions_
 
 **Set Up a Blog Site is Easy**
@@ -99,7 +98,7 @@ There you go! Now you have your blog live on “username.github.io”. Next up, 
 
 I thought by leveraging the audience on Medium, I could focus on my writing. But the truth is it's always hard to grow an audience on any platform. Having blogs on both Medium and my own [blog site](http://zhengyishen.com) will dilute the traffic I get from Twitter.
 
-![Blog Site Traffic](blog-traffic.png)
+![Blog Site Traffic](/assets/img/blog-traffic.png)
 _My blog site's traffic_
 
 (If you’re still considering Medium or Substack, check this [article](https://penji.co/substack-vs-medium/). In short, Medium helps writers get found, Substack helps writers get paid.)
