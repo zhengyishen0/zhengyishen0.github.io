@@ -57,11 +57,6 @@
       "title": "_posts",
       "path": "[[workspace]]/_posts",
       "previewPath": "'posts'"
-    },
-    {
-      "title": "_drafts",
-      "path": "[[workspace]]/_drafts",
-      "previewPath": "'posts'"
     }
   ],
   "frontMatter.content.snippets": {
