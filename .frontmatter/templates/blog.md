@@ -24,7 +24,7 @@ keywords: []
 ---
 
 <!-- prettier-ignore -->
-> **I’d love to hear your thoughts! Let me know on Twitter [@ZhengyiShen](https://twitter.com/intent/tweet?text=@ZhengyiShen&url={{ page.url | absolute_url }})**
+> **Please leave a comment on the tweet below. I’d love to hear your thoughts! 👇**
 {: .prompt-tip }
 
 {% include links.md %}
