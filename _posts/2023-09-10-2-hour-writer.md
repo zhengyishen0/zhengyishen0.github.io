@@ -1,10 +1,12 @@
 ---
-title: 2-Hour Writer (Dan Koe)
+title: "Clipping: 2-Hour Writer (Dan Koe)"
 date: 2023-09-10T15:24:44.693Z
 categories:
   - book notes
+  - clippings
 tags:
   - book notes
+  - clippings
 img_path: /assets/img/
 image: 2-hour-writer.png
 slug: 2-hour-writer

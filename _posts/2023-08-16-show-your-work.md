@@ -1,10 +1,12 @@
 ---
-title: Show Your Work! (Austin Kleon)
+title: "Clipping: Show Your Work! (Austin Kleon)"
 date: 2023-08-16T17:53:14.977Z
 categories:
   - book notes
+  - clippings
 tags:
   - book notes
+  - clippings
 img_path: /assets/img/
 image: /show-your-work.jpg
 slug: show-your-work

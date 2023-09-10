@@ -1,5 +1,5 @@
 ---
-title: Ego Development Theory (Susanne Cook-Greuter)
+title: "Clipping: Ego Development Theory (Susanne Cook-Greuter)"
 date: 2023-08-18T18:04:26.574Z
 categories:
   - book notes

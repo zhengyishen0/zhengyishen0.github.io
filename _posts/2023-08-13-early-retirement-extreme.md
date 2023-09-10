@@ -1,10 +1,12 @@
 ---
-title: Early Retirement Extreme (Jacob Lunder Fisker)
+title: "Clipping: Early Retirement Extreme (Jacob Lunder Fisker)"
 date: 2023-08-19T16:58:50.670Z
 categories:
   - book notes
+  - clippings
 tags:
   - book notes
+  - clippings
 img_path: /assets/img/
 image: /early-retirement-extreme.jpeg
 slug: early-retirement-extreme

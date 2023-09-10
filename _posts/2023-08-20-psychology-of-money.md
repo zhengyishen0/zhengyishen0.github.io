@@ -1,5 +1,5 @@
 ---
-title: The Psychology of Money (Morgan Housel)
+title: "Clipping: The Psychology of Money (Morgan Housel)"
 date: 2023-08-20T15:19:25.164Z
 categories:
   - book notes
