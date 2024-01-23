@@ -18,7 +18,7 @@ description: The wisdom of Dan Koe on writing, entrepreneurship, and life.
 
 ## **Takeaways**
 
-- Live your life with full intention, be passionate about all of the highs and lows, and find value in your unique experience.
+- Live your life with full intention, be passionate about all of the highs and lows, and find value in your unique experience..
 - Work on a project, connect the dots, and you will find your direction on the way.
 - Document the journey, share in public, and lead your liked-minded people with your learning.
 - Expose yourself to quality information, expand your curiosity, and develop a funnel to pull everything you need.
