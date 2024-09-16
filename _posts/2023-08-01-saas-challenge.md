@@ -12,7 +12,7 @@ image: /twitter_1.png
 slug: saas-challenge
 ---
 
-> A journey of building an online community for achievers
+> A journey of building an online community for achievers.
 
 I decided to take on a [#buildinpublic](https://buildinpublic.com/) challenge this June. Motivated by the entrepreneurs and creators who had previously accomplished it, and who had shown me that such an ambitious goal was achievable, I challenged myself to learn, build, and launch a SaaS product in 30 days.
 
