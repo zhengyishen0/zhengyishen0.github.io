@@ -129,7 +129,7 @@ Twitter threads are not only a great way to promote a blog, but also a great way
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🎯Challenge Completed!<br><br>I challenged myself to write 10 blogs in 30 days.<br><br>Writing was painful to me, especially in a second language. But I&#39;ve grown my muscle and started to find my voice through writing.<a href="https://twitter.com/hashtag/buildinpublic?src=hash&amp;ref_src=twsrc%5Etfw">#buildinpublic</a> <a href="https://twitter.com/hashtag/30daychallenge?src=hash&amp;ref_src=twsrc%5Etfw">#30daychallenge</a><a href="https://t.co/BlHrSx83WK">https://t.co/BlHrSx83WK</a> <a href="https://t.co/3ShGBWoSit">https://t.co/3ShGBWoSit</a> <a href="https://t.co/T93dLKDH4m">pic.twitter.com/T93dLKDH4m</a></p>&mdash; Zhengyi Shen (@ZhengyiShen) <a href="https://twitter.com/ZhengyiShen/status/1694083504416661735?ref_src=twsrc%5Etfw">August 22, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-# What's next?
+# What's next
 
 I will continue to write blogs like this one, but during the challenge of blogging, I saw the power of Twitter and Twitter threads. So in my next challenge, I will probably focus on writing threads, engaging with other users, and growing my audience on Twitter.
 
