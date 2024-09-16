@@ -73,5 +73,6 @@
       ],
       "fields": []
     }
-  }
+  },
+  "frontMatter.dashboard.openOnStart": true
 }
